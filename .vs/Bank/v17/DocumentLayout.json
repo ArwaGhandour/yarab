@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\views\\accounts\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\views\\accounts\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\models\\entities\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\models\\entities\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\models\\viewmodel\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\models\\viewmodel\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\views\\accounts\\getallaccounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\views\\accounts\\getallaccounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\views\\customer\\getallcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\views\\customer\\getallcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\models\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\models\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|c:\\users\\almasria 4 comp\\desktop\\final a\\bank\\bank\\migrations\\20241229203826_firstt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00791F37-BB39-4C24-AF67-0FB14BB329E3}|Bank\\Bank.csproj|solutionrelative:bank\\migrations\\20241229203826_firstt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Bank\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Bank\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:41:13.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Bank\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Bank\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwEoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:40:52.557Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Bank\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Bank\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvz0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:40:15.455Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Accounts\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Accounts\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Accounts\\Update.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Accounts\\Update.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T22:51:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T21:05:19.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\Entities\\Accounts.cs",
+              "RelativeDocumentMoniker": "Bank\\Models\\Entities\\Accounts.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\Entities\\Accounts.cs",
+              "RelativeToolTip": "Bank\\Models\\Entities\\Accounts.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:19:03.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Accountviewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\ViewModel\\Accountviewmodel.cs",
+              "RelativeDocumentMoniker": "Bank\\Models\\ViewModel\\Accountviewmodel.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\ViewModel\\Accountviewmodel.cs",
+              "RelativeToolTip": "Bank\\Models\\ViewModel\\Accountviewmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:25:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllAccounts.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Accounts\\GetAllAccounts.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Accounts\\GetAllAccounts.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Accounts\\GetAllAccounts.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Accounts\\GetAllAccounts.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T21:11:03.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Accounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Accounts\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T21:14:10.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T21:01:59.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T20:54:37.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Customer\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\Update.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Customer\\Update.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T21:00:27.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T20:56:56.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllCustomers.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\GetAllCustomers.cshtml",
+              "RelativeDocumentMoniker": "Bank\\Views\\Customer\\GetAllCustomers.cshtml",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Views\\Customer\\GetAllCustomers.cshtml",
+              "RelativeToolTip": "Bank\\Views\\Customer\\GetAllCustomers.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T20:54:01.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241229203826_firstt.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Migrations\\20241229203826_firstt.cs",
+              "RelativeDocumentMoniker": "Bank\\Migrations\\20241229203826_firstt.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Migrations\\20241229203826_firstt.cs",
+              "RelativeToolTip": "Bank\\Migrations\\20241229203826_firstt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:38:27.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Bank\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "Bank\\Models\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:30:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Program.cs",
+              "RelativeDocumentMoniker": "Bank\\Program.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Program.cs",
+              "RelativeToolTip": "Bank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:19:27.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "Bank\\Models\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\Entities\\Transaction.cs",
+              "RelativeToolTip": "Bank\\Models\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:21:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Bank\\Models\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\Models\\Entities\\Customer.cs",
+              "RelativeToolTip": "Bank\\Models\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:14:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\appsettings.json",
+              "RelativeDocumentMoniker": "Bank\\appsettings.json",
+              "ToolTip": "C:\\Users\\ALMASRIA 4 COMP\\Desktop\\Final A\\Bank\\Bank\\appsettings.json",
+              "RelativeToolTip": "Bank\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T20:11:42.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

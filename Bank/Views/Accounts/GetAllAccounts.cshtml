@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Bank.Models.Entities.Accounts>
+
+@{
+    ViewData["Title"] = "GetAllAccounts";
+}
+
+<h1>GetAllAccounts</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.customer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccountNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Balance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccountType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.customer.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Balance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountType)
+            </td>
+            <td>
+                <a asp-action="Update" asp-route-id="@item.AccountsID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AccountsID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AccountsID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
